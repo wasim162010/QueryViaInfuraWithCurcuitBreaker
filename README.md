@@ -5,7 +5,7 @@
 
 #npm start
 
-#Open other terminal, and hit the below command
+#Open other terminal, and hit the below command : 
 npm run healthcheck
 
 
